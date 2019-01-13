@@ -1,0 +1,18 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="detail_text_header_padding">5dp</dimen>
+    <dimen name="margin_top">8dp</dimen>
+    <dimen name="padding_act_details">10dp</dimen>
+    <dimen name="detail_text_title_padding">10dp</dimen>
+    <dimen name="toolbar_text_size">20sp</dimen>
+    <dimen name="toolbar_height">48dp</dimen>
+    <dimen name="custom_tab_layout_height">72dp</dimen>
+    <dimen name="image_act_details_height">150dp</dimen>
+    <dimen name="image_size_list">100dp</dimen>
+    <dimen name="attraction_details_image_height">200dp</dimen>
+    <dimen name="industry_details_image_height">200dp</dimen>
+    <dimen name="restaurant_details_image_height">200dp</dimen>
+    <dimen name="shopping_details_image_height">200dp</dimen>
+
+
+</resources>
